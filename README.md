@@ -1,0 +1,2 @@
+# resolution.txt
+resolusi kedepan
